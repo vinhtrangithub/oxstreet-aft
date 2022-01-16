@@ -26,3 +26,5 @@ $ mvn clean verify -Denvironment={env}
 
 ## 5. The report
 After running, the report will be generated in under the path "target\site\serenity\index.html"
+
+![image](https://user-images.githubusercontent.com/47167767/149675699-bcbe69e9-55e3-498e-81a5-c44a59b3a914.png)
